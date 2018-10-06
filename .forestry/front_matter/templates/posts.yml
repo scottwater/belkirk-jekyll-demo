@@ -9,4 +9,4 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/this-is-a-sample-post.md
+- _posts/2018-10-06-this-is-a-sample-post.md
